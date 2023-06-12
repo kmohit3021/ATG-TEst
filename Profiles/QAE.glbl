@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalVariableEntities>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'mohit.kumar@katalon.com'</initValue>
+        <name>username</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'Katalon@1'</initValue>
+        <name>password</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'https://katalonhealthcare.com'</initValue>
+        <name>application_domain</name>
+    </GlobalVariableEntity>
+    <defaultProfile>True</defaultProfile>
+    <description></description>
+    <name>QAE</name>
+    <tag></tag>
+</GlobalVariableEntities>
