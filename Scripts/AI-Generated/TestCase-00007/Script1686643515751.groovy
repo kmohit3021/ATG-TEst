@@ -7,13 +7,13 @@ WebUI.openBrowser('')
 
 WebUI.setViewPortSize(1920, 1080)
 
-'step 1: Navigate to Page_index_php_health-page'
+'step 1: Navigate to Page_index_php_about-us'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/index.php/health-page')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/index.php/about-us')
 
-'step 2: Add visual checkpoint at Page_index_php_health-page'
+'step 2: Add visual checkpoint at Page_index_php_about-us'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00003_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00007_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

@@ -7,13 +7,13 @@ WebUI.openBrowser('')
 
 WebUI.setViewPortSize(1920, 1080)
 
-'step 1: Navigate to Page_index_php_user-health-record'
+'step 1: Navigate to Page_index_php_book-appointment'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/index.php/user-health-record')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/index.php/book-appointment')
 
-'step 2: Add visual checkpoint at Page_index_php_user-health-record'
+'step 2: Add visual checkpoint at Page_index_php_book-appointment'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00004_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00002_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
