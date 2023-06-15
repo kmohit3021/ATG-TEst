@@ -13,7 +13,7 @@ WebUI.navigateToUrl(GlobalVariable.application_domain + '/index.php/book-appoint
 
 'step 2: Add visual checkpoint at Page_index_php_book-appointment'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00003_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00002_visual_checkpoint')
 
 'Terminate test session: Close browser'
 

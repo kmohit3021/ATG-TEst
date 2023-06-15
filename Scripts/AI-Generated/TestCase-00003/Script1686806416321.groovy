@@ -7,13 +7,13 @@ WebUI.openBrowser('')
 
 WebUI.setViewPortSize(1920, 1080)
 
-'step 1: Navigate to Page_index_php_life'
+'step 1: Navigate to Page_index_php_book-agent'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/index.php/life')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/index.php/book-agent')
 
-'step 2: Add visual checkpoint at Page_index_php_life'
+'step 2: Add visual checkpoint at Page_index_php_book-agent'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00002_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00003_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
