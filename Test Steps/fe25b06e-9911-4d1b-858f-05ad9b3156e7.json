@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_index_php_user-health-record_",
-        "step 2: At Page_index_php_user-health-record_ click on hyperlink_katalonhealthcare_com_index_php_claim_p --> navigate to Page_index_php_claim-page_",
-        "step 3: Add visual checkpoint at Page_index_php_claim-page_"
-    ]
-}
